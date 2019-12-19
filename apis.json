@@ -1,0 +1,44 @@
+{
+    "name": "FOSS Patents",
+    "description": "<p>Florian Mueller used to be an award-winning intellectual property activist. His 30 years of software industry expertise span different market segments (games, education, productivity and infrastructure software), diverse business models, and technical and commercial areas of responsibility. In recent years, Florian advised a diversity of clients on the patent wars surrounding mobile devices, and on their economic and technical implications. (In order to avoid conflicts of interest, Florian does not hold or initiate transactions in any technology stocks or derivatives thereof, except that he is long AAPL.) He is now developing games for smartphones and tablet computers.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/FOSS_Patents.png",
+    "tags": [
+        "have api",
+        "patents"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/foss-patents\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FOSS Patents",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/FOSS_Patents.png",
+            "humanURL": "http:\/\/www.fosspatents.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/foss-patents-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/foss-patents-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.fosspatents.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.fosspatents.com"
+        }
+    ]
+}
